@@ -1,1 +1,2 @@
 # P2---AttendanceManagement_using-Face-Recognition
+AI - DRIVEN : ATTENDANCE MANAGEMENT SYSTEM USING FACE RECOGNITION
