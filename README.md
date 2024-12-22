@@ -1,5 +1,4 @@
-# P2---AttendanceManagement_using-Face-Recognition
-AI - DRIVEN : ATTENDANCE MANAGEMENT SYSTEM USING FACE RECOGNITION
+
 # P2---AttendanceManagement_using-Face-Recognition
 This project is a Face Recognition-based Attendance System that uses OpenCV, Tkinter, and an SQL database to manage student records and attendance. The system provides functionalities for adding, updating, deleting student details, training the face recognition model, and marking attendance through face recognition.
 #FEATURES 
